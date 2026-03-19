@@ -1,0 +1,1 @@
+This repository contains the source code for a web-based directory and resource guide for high-purity peptides. Our goal is to provide a transparent, accessible interface for viewing peptide data and sourcing information.
